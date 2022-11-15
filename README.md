@@ -1,5 +1,4 @@
 # Ford-GoBIke-System-Data-Exploratory-and-Explanatory-Analysis
-# Ford GoBike Data Exploration
 ## by Amen T.  Ajamu
 
 
